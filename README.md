@@ -11,4 +11,6 @@ PlayerStartPoint Script - This script was used to decide where our player would 
 
 ChangeScene - This script was used for the main menu and getting to different scenes when you selcted the start or exit buttons.
 
-Link script - this script was used for opening up the links to the various buttons int the shops where it will lead you to helpful guides for competive gamplay.
+Link script - this script was used for showing what links correspond to which buttons.
+
+venomReader scipt - this script along with the FaviaReader script allows for the flow of dailouge that branchees to diffrent questions and answers the player will have with the shopkeeper
