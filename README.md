@@ -11,4 +11,4 @@ PlayerStartPoint Script - This script was used to decide where our player would 
 
 ChangeScene - This script was used for the main menu and getting to different scenes when you selcted the start or exit buttons.
 
-
+Link script - this script was used for opening up the links to the various buttons int the shops where it will lead you to helpful guides for competive gamplay.
