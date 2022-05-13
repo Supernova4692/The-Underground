@@ -9,6 +9,9 @@ https://user-images.githubusercontent.com/81324193/168211045-881fc4c8-81ab-4a00-
 Load Scene Script - This script was used to take you into the Valorant and League of Legends shops. By having an invisible object for the player to collide with and, in the inspector view, by giving the index number and scene name, you are able to send them to any scene you want. 
 
 
+![Load Scene](https://user-images.githubusercontent.com/81324193/168211371-1b136b80-a48f-4859-97fe-d437e58f35f6.gif)
+
+
 PlayerStartPoint Script - This script was used to decide where our player would spawn. Use an invisible empty GameObject and place it where you want the player to spawn. After placing it you have the empty Gameobject taje the script and your done.
 
 
